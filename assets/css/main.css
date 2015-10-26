@@ -2136,7 +2136,7 @@
 			background: #e44c65;
 			content: '';
 			display: inline-block;
-			height: 0.2em;
+			height: 0;
 			max-width: 20em;
 			width: 75%;
 		}
